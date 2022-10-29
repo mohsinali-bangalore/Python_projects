@@ -1,0 +1,24 @@
+Python project:- Movie recommendation system.
+	- This system aims to predict users' interests and 		recommend items for them.
+	- These systems are used to predict the preference that 	a user might attach to an item.
+	- Almost all of the major tech-based companies use them 	in one way or another.
+
+#How to attain recommendation:- 
+	1. Track user preferences.
+	2. Track user behaviour.
+	3. Track user data.
+
+#Types of recommendation systems:-
+	1. Simple recommender system
+		- Offers simple suggestions based on popularity 		or genre
+	2. Content based recommender system
+		- Uses metadata (set of data that describes and 		gives information about other data) to suggest 			what you should watch next
+
+#Problem statement
+	- Build a movie recommendation system similar to IMDB 		and provide insights about the top movies that your 		system recommends.
+
+#Steps to solve the problem
+	1. Find a metric to rate the movies
+	2. Calculate the metric for all the movies in the list
+	3. Sort in descending order to showcase top results
+
